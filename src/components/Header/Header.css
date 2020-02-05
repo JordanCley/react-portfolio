@@ -1,0 +1,73 @@
+.header {
+  height: 100vh;
+}
+
+/* Adding Font For Home Title */
+.title {
+  font-family: "Monoton", cursive ;
+}
+
+/* "FULL" title block css */
+#blockOne {
+  background-color: #7510f7;
+  color: #beb4cc;
+  margin: 35px 45px 0 0;
+  box-shadow: 2px 4px 10px #6f6a75;
+  padding-right: 45px;
+  border-top-left-radius: 40%;
+  border-bottom-left-radius: 40%;
+  border-top-right-radius: 10%;
+  border-bottom-right-radius: 10%;
+}
+
+/* "STACK" title block css */
+#blockTwo {
+  background-color: #beb4cc;
+  margin: 10px 0px 0px 45px;
+  box-shadow: 2px 4px 10px #6f6a75;
+  padding-right: 25px;
+  border-top-left-radius: 10%;
+  border-bottom-left-radius: 10%;
+  border-top-right-radius: 40%;
+  border-bottom-right-radius: 40%;
+}
+
+/* "WEB" title block css */
+#blockThree {
+  background-color: #500aab;
+  margin: 10px 25px 5px 0px;
+  box-shadow: 2px 4px 10px #6f6a75;
+  padding-top: 0px;
+  color: #e6f0f5;
+  border-top-left-radius: 40%;
+  border-bottom-left-radius: 40%;
+  border-top-right-radius: 10%;
+  border-bottom-right-radius: 10%;
+}
+
+/* "DEVELOPER" title block css */
+#blockFour {
+    background-color: #f4edfc;
+    margin: 10px 0px 20px 45px;
+    box-shadow: 2px 4px 10px #6f6a75;
+    padding-right: 25px;
+    border-top-left-radius: 10%;
+    border-bottom-left-radius: 10%;
+    border-top-right-radius: 40%;
+    border-bottom-right-radius: 40%;
+  }
+
+  hr {
+      width: 80%;
+      border: 4px solid black;
+  }
+
+  /* Skills list css */
+  .skills {
+    font-family: 'PT Sans', sans-serif;
+    color: #7510f7;
+    text-shadow: 1px 2px 6px #6f6a75;
+    text-align: center;
+    margin-bottom: 20px;
+      font-size: 1.8rem;
+  }
